@@ -12,13 +12,13 @@ Sales and order volume move together month to month. **March** is the strongest 
 both counts, ₹1,928,066 in sales and 2,819 orders, after a Q1 ramp-up from January.
 Both series decline gradually from Q2 onward, bottoming out in November.
 
-**3. Who buys more — men or women?**
+**3. Who buys more men or women?**
 **Women purchase more.** Women account for **64.1%** of revenue (₹13,562,773) vs. **35.9%**
 for men (₹7,613,604), close to the "~65%" benchmark cited in the target insight.
 
 **4. Order statuses**
 Four statuses appear in 2022: **Delivered (92.3%)**, **Returned (3.4%)**, **Cancelled
-(2.7%)**, and **Refunded (1.7%)**. Fulfillment health is strong — under 8% of orders fail
+(2.7%)**, and **Refunded (1.7%)**. Fulfillment health is strong, under 8% of orders fail
 to convert into a kept sale.
 
 **5. Top 10 states by sales**
@@ -94,7 +94,7 @@ product types.
 **Target women customers aged 30–49 in Maharashtra, Karnataka, and Uttar Pradesh with
 ads, offers, and coupons on Amazon, Myntra, and Flipkart.**
 
-This segment is not a minor slice of the business — it sits at the intersection of the
+This segment is not a minor slice of the business, it sits at the intersection of the
 three highest-value customer dimensions (gender, age, geography) and the three
 highest-value sales channels, making it the highest-leverage group for incremental
 marketing spend in 2023.
