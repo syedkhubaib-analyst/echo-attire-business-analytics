@@ -1,4 +1,4 @@
-# 👗 Echo Attire — Sales Performance Analysis & Dashboard
+# Echo Attire: Sales Performance Analysis & Dashboard
 
 An end-to-end Data Analytics / Business Analytics project on a year of e-commerce sales
 data for **Echo Attire**, an apparel retailer selling across multiple online marketplaces.
@@ -91,21 +91,21 @@ assembles these pivots into the final report shown above.
 
 **What the dashboard shows:**
 
-- **Orders & Sales (monthly trend)** — combo chart tracking revenue and order volume
+- **Orders & Sales (monthly trend):** combo chart tracking revenue and order volume
   from January to December, highlighting a Q1 peak (March) and a gradual decline into
   Q4.
-- **Male & Female Sales Ratio** — women account for ~64% of revenue vs. ~36% for men.
-- **Order Status** — 92% of orders are delivered successfully; cancellations, returns,
+- **Male & Female Sales Ratio:** women account for ~64% of revenue vs. ~36% for men.
+- **Order Status:** 92% of orders are delivered successfully; cancellations, returns,
   and refunds together make up under 8%.
-- **Sales by Channel** — marketplace mix led by Amazon (~35.5%), followed by Myntra
+- **Sales by Channel:** marketplace mix led by Amazon (~35.5%), followed by Myntra
   (~23.3%) and Flipkart (~21.6%), with Ajio, Nalli, Meesho, and Others making up the rest.
-- **Top 5 States by Sales** — Maharashtra, Karnataka, Uttar Pradesh, Telangana, and
+- **Top 5 States by Sales:** Maharashtra, Karnataka, Uttar Pradesh, Telangana, and
   Tamil Nadu are the highest-revenue states (full top 10 in
   `docs/Insights & Recommendations.md`).
-- **Orders by Gender & Age Bracket** — Adult women are the single largest segment
+- **Orders by Gender & Age Bracket:** Adult women are the single largest segment
   (34.6% of all orders), followed by teenage women; male segments trail across all age
   brackets.
-- **Highest-selling category** — "Set" alone drives 49.6% of revenue, followed by Kurta
+- **Highest-selling category:** "Set" alone drives 49.6% of revenue, followed by Kurta
   at 23.4% (see `docs/Insights & Recommendations.md` for the full category breakdown).
 - Fully interactive via **slicers** for Month, Category, and Channel.
 
@@ -113,7 +113,7 @@ assembles these pivots into the final report shown above.
 
 ## 🎯 Business Questions Answered
 
-This project was built to answer Echo Attire's specific 2022 annual-report questions —
+This project was built to answer Echo Attire's specific 2022 annual-report questions
 sales & orders trend, best month, gender split, order statuses, top states, age/gender
 relationship, channel performance, and category performance. See
 **[`docs/Business Requirements.md`](docs/Business%20Requirements.md)** for the full
@@ -122,7 +122,7 @@ question-to-deliverable mapping.
 ## 💡 Verified Insights & Final Recommendation
 
 Every insight below was independently recalculated from the cleaned dataset (not just
-read off the dashboard) — see **[`docs/Insights & Recommendations.md`](docs/Insights%20%26%20Recommendations.md)**
+read off the dashboard), see **[`docs/Insights & Recommendations.md`](docs/Insights%20%26%20Recommendations.md)**
 for the full breakdown, verification table, and supporting recommendations.
 
 - Women drive **64.1%** of revenue vs. 35.9% for men.
@@ -131,7 +131,7 @@ for the full breakdown, verification table, and supporting recommendations.
 - **Amazon, Myntra, and Flipkart** together drive **80.4%** of total revenue.
 
 **Final recommendation:** Target women customers aged 30–49 in Maharashtra, Karnataka,
-and Uttar Pradesh with ads, offers, and coupons on Amazon, Myntra, and Flipkart — this
+and Uttar Pradesh with ads, offers, and coupons on Amazon, Myntra, and Flipkart, this
 segment sits at the intersection of the highest-value customer dimensions and the
 highest-value sales channels, making it the highest-leverage group for 2023 marketing
 spend.
@@ -148,7 +148,7 @@ spend.
    - **"Dashboard"** sheet → the interactive report (use the slicers to filter by
      Month / Category / Channel).
 4. Reference `docs/Data Dictionary.md` for column definitions if you extend the analysis.
-5. The original, untouched export is preserved in `data/raw/` for reproducibility —
+5. The original, untouched export is preserved in `data/raw/` for reproducibility,
    any cleaning step can be re-run or audited against it.
 
 ---
