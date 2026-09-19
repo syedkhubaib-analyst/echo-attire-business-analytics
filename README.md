@@ -6,7 +6,7 @@ The project covers data cleaning, pivot-table analysis, and an interactive Excel
 dashboard that surfaces revenue trends, customer demographics, order fulfillment health,
 and channel performance.
 
-![Echo Attire Sales Dashboard](images/Echo Attire Sales Dashboard.jpg)
+![Echo_Attire_Sales_Dashboard](images/Echo_Attire_Sales_Dashboard.jpg)
 
 ---
 
