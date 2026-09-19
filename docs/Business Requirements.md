@@ -1,4 +1,4 @@
-# Business Requirements — Echo Attire 2022 Annual Sales Report
+# Business Requirements: Echo Attire 2022 Annual Sales Report
 
 ## Objective
 
@@ -20,8 +20,7 @@ by a PivotTable on the **"Pivot Table"** sheet.
 | 5 | Top 10 states contributing to sales | State ranking bar chart (dashboard shows top 5; full top 10 in `docs/Insights & Recommendations.md`) | Top 5 (10) States With Highest Sales |
 | 6 | Relationship between age and gender by order volume | Age Bracket × Gender clustered bar chart | Orders Based on Gender & Age Brackets |
 | 7 | Which channel contributes the most sales? | Channel-wise sales share pie chart | Sales Based on Different Channels |
-| 8 | Highest-selling category | Category breakdown (see `docs/Insights & Recommendations.md` — not on the current one-page dashboard, computed from the pivot data) | — |
-| 9 | And more... | Average order value, cancellation/return/refund rate | Order Status, KPI summary in README |
+| 8 | And more... | Average order value, cancellation/return/refund rate | Order Status, KPI summary in README |
 
 ## Deliverable Mapping
 
@@ -34,10 +33,3 @@ by a PivotTable on the **"Pivot Table"** sheet.
 | Verified insights & business recommendations | `docs/Insights & Recommendations.md` |
 | This requirements-to-deliverable mapping | `docs/Business Requirements.md` |
 
-## Scope Note
-
-The current one-page Dashboard sheet covers questions 1–7 directly. Question 8
-(highest-selling category) and the extended Top-10-states cut are answered from the same
-underlying cleaned dataset and are documented with figures in
-`docs/Insights & Recommendations.md` — a `Category` PivotChart can be added to the
-Dashboard sheet as a fast follow-up if a category view is wanted on the one-pager itself.
