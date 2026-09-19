@@ -1,6 +1,6 @@
 # Echo Attire: Sales Performance Analysis & Dashboard
 
-An end-to-end Data Analytics / Business Analytics project on a year of e-commerce sales
+An end-to-end Data Analytics & Business Analytics project on a year of e-commerce sales
 data for **Echo Attire**, an apparel retailer selling across multiple online marketplaces.
 The project covers data cleaning, pivot-table analysis, and an interactive Excel
 dashboard that surfaces revenue trends, customer demographics, order fulfillment health,
@@ -12,18 +12,18 @@ and channel performance.
 
 ## 📌 Project Overview
 
-| | |
-|---|---|
-| **Domain** | E-commerce / Retail (Apparel) |
-| **Tool used** | Microsoft Excel (Power Query, PivotTables, PivotCharts, Slicers) |
-| **Dataset size** | 31,047 orders |
-| **Time period** | January 2022 – December 2022 |
-| **Currency** | INR (₹) |
-| **Type** | Descriptive analytics / BI dashboard |
+<table>
+  <tr><td><b>Domain</b></td><td>E-commerce / Retail (Apparel)</td></tr>
+  <tr><td><b>Tool used</b></td><td>Microsoft Excel (Power Query, PivotTables, PivotCharts, Slicers)</td></tr>
+  <tr><td><b>Dataset size</b></td><td>31,047 orders</td></tr>
+  <tr><td><b>Time period</b></td><td>January 2022 – December 2022</td></tr>
+  <tr><td><b>Currency</b></td><td>INR (₹)</td></tr>
+  <tr><td><b>Type</b></td><td>Descriptive analytics / BI dashboard</td></tr>
+</table>
 
 **Business objective:** Echo Attire wants an annual sales report for 2022 so the business
 can understand its customers and grow sales in 2023. This project answers that brief end
-to end — from raw data, to a clean model, to a dashboard, to a concrete, data-backed
+to end from raw data, to a clean model, to a dashboard, to a concrete, data-backed
 recommendation for where to focus 2023 marketing spend.
 
 ---
@@ -173,5 +173,5 @@ portfolio and educational purposes.
 
 ## 🙋 About
 
-Built as a Data Analyst / Business Analyst portfolio project to demonstrate the full
+Built as a Data Analyst, Business Analyst project to demonstrate the full
 workflow from raw data to a decision-ready dashboard.
