@@ -1,4 +1,4 @@
-# 👗 Echo Attire — Sales Performance Analysis & Dashboard
+# Echo Attire: Sales Performance Analysis & Dashboard
 
 An end-to-end Data Analytics / Business Analytics project on a year of e-commerce sales
 data for **Echo Attire**, an apparel retailer selling across multiple online marketplaces.
@@ -6,7 +6,7 @@ The project covers data cleaning, pivot-table analysis, and an interactive Excel
 dashboard that surfaces revenue trends, customer demographics, order fulfillment health,
 and channel performance.
 
-![Echo Attire Sales Dashboard](images/Echo_Attire_Sales_Dashboard.jpg)
+![Echo Attire Sales Dashboard](images/Echo Attire Sales Dashboard.jpg)
 
 ---
 
@@ -23,7 +23,7 @@ and channel performance.
 
 **Business objective:** Echo Attire wants an annual sales report for 2022 so the business
 can understand its customers and grow sales in 2023. This project answers that brief end
-to end — from raw data, to a clean model, to a dashboard, to a concrete, data-backed
+to end from raw data, to a clean model, to a dashboard, to a concrete, data-backed
 recommendation for where to focus 2023 marketing spend.
 
 ---
@@ -36,26 +36,26 @@ echo-attire-sales-analysis/
 ├── LICENSE
 ├── data/
 │   ├── raw/
-│   │   └── Echo_Attire_Dataset.xlsx           <- Original, unmodified source data
+│   │   └── Echo Attire Dataset.xlsx           <- Original, unmodified source data
 │   └── processed/
-│       └── Echo_Attire_Cleaned_Pivot_Dashboard.xlsx
+│       └── Echo Attire Cleaned Pivot Dashboard.xlsx
 │                                               <- Cleaned data + PivotTables + Dashboard
 │                                                  (sheets: "Echo Attire", "Pivot Table", "Dashboard")
 ├── images/
-│   └── Echo_Attire_Sales_Dashboard.jpg        <- Dashboard preview image
+│   └── Echo Attire Sales Dashboard.jpg        <- Dashboard preview image
 └── docs/
-    ├── business_requirements.md                <- Business objective, questions, and deliverable mapping
-    ├── insights_and_recommendations.md         <- Verified insights + final growth recommendations
-    └── data_dictionary.md                      <- Column-by-column field reference
+    ├── business requirements.md                <- Business objective, questions, and deliverable mapping
+    ├── insights and recommendations.md         <- Verified insights + final growth recommendations
+    └── data dictionary.md                      <- Column-by-column field reference
 ```
 
 ---
 
 ## 🧹 Data Cleaning & Preparation
 
-Starting from the raw export (`data/raw/Echo_Attire_Dataset.xlsx`), the following steps
+Starting from the raw export (`data/raw/Echo Attire Dataset.xlsx`), the following steps
 were applied to produce the analysis-ready table in
-`data/processed/Echo_Attire_Cleaned_Pivot_Dashboard.xlsx` (sheet **"Echo Attire"**):
+`data/processed/Echo Attire Cleaned Pivot_Dashboard.xlsx` (sheet **"Echo Attire"**):
 
 - Removed duplicate and blank rows.
 - Standardized text fields (category names, state names, casing/spacing).
@@ -116,13 +116,13 @@ assembles these pivots into the final report shown above.
 This project was built to answer Echo Attire's specific 2022 annual-report questions —
 sales & orders trend, best month, gender split, order statuses, top states, age/gender
 relationship, channel performance, and category performance. See
-**[`docs/business_requirements.md`](docs/business_requirements.md)** for the full
+**[`docs/business requirements.md`](docs/business requirements.md)** for the full
 question-to-deliverable mapping.
 
 ## 💡 Verified Insights & Final Recommendation
 
 Every insight below was independently recalculated from the cleaned dataset (not just
-read off the dashboard) — see **[`docs/insights_and_recommendations.md`](docs/insights_and_recommendations.md)**
+read off the dashboard) — see **[`docs/insights & recommendations.md`](docs/insights & recommendations.md)**
 for the full breakdown, verification table, and supporting recommendations.
 
 - Women drive **64.1%** of revenue vs. 35.9% for men.
@@ -141,14 +141,14 @@ spend.
 ## 🛠️ How to Use This Project
 
 1. Clone or download the repository.
-2. Open `data/processed/Echo_Attire_Cleaned_Pivot_Dashboard.xlsx` in Excel.
+2. Open `data/processed/Echo Attire Cleaned Pivot Dashboard.xlsx` in Excel.
 3. Explore:
    - **"Echo Attire"** sheet → cleaned, tabular source data.
    - **"Pivot Table"** sheet → underlying PivotTables for every chart.
    - **"Dashboard"** sheet → the interactive report (use the slicers to filter by
      Month / Category / Channel).
 4. Reference `docs/data_dictionary.md` for column definitions if you extend the analysis.
-5. The original, untouched export is preserved in `data/raw/` for reproducibility —
+5. The original, untouched export is preserved in `data/raw/` for reproducibility
    any cleaning step can be re-run or audited against it.
 
 ---
