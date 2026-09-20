@@ -163,7 +163,7 @@ spend.
 
 ---
 
-## 🙋 About
+## 👨‍💻 About
 
 Built as a Data Analyst, Business Analyst project to demonstrate the full
 workflow from raw data to a decision-ready dashboard.
