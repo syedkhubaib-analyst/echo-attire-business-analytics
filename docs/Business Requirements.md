@@ -1,11 +1,11 @@
 # Business Requirements: Echo Attire 2022 Annual Sales Report
 
-- ## Objective
+## Objective
 
 Echo Attire wants an annual sales report for 2022 so the business can understand its
 customers and grow sales in 2023.
 
-- ## Business Questions & Where They're Answered
+## Business Questions & Where They're Answered
 
 Every question below is answered by a specific chart in
 `data/processed/Echo Attire Cleaned Pivot Dashboard.xlsx` (sheet **"Dashboard"**), backed
@@ -22,7 +22,7 @@ by a PivotTable on the **"Pivot Table"** sheet.
 | 7 | Which channel contributes the most sales? | Channel-wise sales share pie chart | Sales Based on Different Channels |
 | 8 | And more... | Average order value, cancellation/return/refund rate | Order Status, KPI summary in README |
 
-- ## Deliverable Mapping
+## Deliverable Mapping
 
 | Deliverable | File |
 |---|---|
