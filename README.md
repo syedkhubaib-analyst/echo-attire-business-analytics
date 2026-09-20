@@ -124,7 +124,7 @@ Every insight below was independently recalculated from the cleaned dataset (not
 read off the dashboard), see **[`docs/Insights & Recommendations.md`](docs/Insights%20%26%20Recommendations.md)**
 for the full breakdown, verification table, and supporting recommendations.
 
-- Women drive **64.1%** of revenue vs. 35.9% for men.
+- Women drive **64.0%** of revenue vs. 35.0% for men.
 - **Maharashtra → Karnataka → Uttar Pradesh** are confirmed as the top 3 states by sales.
 - The **30–49 age group contributes ~50.1%** of both orders and revenue.
 - **Amazon, Myntra, and Flipkart** together drive **80.4%** of total revenue.
