@@ -154,7 +154,7 @@ spend.
 
 ## 💡 Skills Demonstrated
 
-- Data cleaning & preparation (Power Query / manual transforms)
+- Data cleaning & preparation (manual transformation)
 - Feature engineering (Age Bracket, Month extraction)
 - PivotTables & PivotCharts
 - KPI design and dashboard storytelling
