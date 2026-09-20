@@ -20,7 +20,7 @@ by a PivotTable on the **"Pivot Table"** sheet.
 | 5 | Top 10 states contributing to sales | State ranking bar chart (dashboard shows top 5; full top 10 in `docs/Insights & Recommendations.md`) | Top 5 (10) States With Highest Sales |
 | 6 | Relationship between age and gender by order volume | Age Bracket × Gender clustered bar chart | Orders Based on Gender & Age Brackets |
 | 7 | Which channel contributes the most sales? | Channel-wise sales share pie chart | Sales Based on Different Channels |
-| 8 | And more... | Average order value, cancellation/return/refund rate | Order Status, KPI summary in README |
+| 8 | And more... | Cancellation/Return/Refund Rate | Order Status, Complete Summary in README |
 
 ## Deliverable Mapping
 
