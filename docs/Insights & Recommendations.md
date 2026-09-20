@@ -13,7 +13,7 @@ both counts, ₹1,928,066 in sales and 2,819 orders, after a Q1 ramp-up from Jan
 Both series decline gradually from Q2 onward, bottoming out in November.
 
 **3. Who buys more men or women?**
-**Women purchase more.** Women account for **64.1%** of revenue (₹13,562,773) vs. **35.9%**
+**Women purchase more.** Women account for **64%** of revenue (₹13,562,773) vs. **35%**
 for men (₹7,613,604), close to the "~65%" benchmark cited in the target insight.
 
 **4. Order statuses**
