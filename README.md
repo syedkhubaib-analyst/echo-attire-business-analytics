@@ -12,6 +12,11 @@ and channel performance.
 
 ## 📌 Project Overview
 
+- **Business objective:** Echo Attire wants an annual sales report for 2022 so the business
+can understand its customers and grow sales in 2023. This project answers that brief end
+to end from raw data, to a clean model, to a dashboard, to a concrete, data-backed
+recommendation for where to focus 2023 marketing spend.
+
 <table>
   <tr><td><b>Domain</b></td><td>E-commerce / Retail (Apparel)</td></tr>
   <tr><td><b>Tool used</b></td><td>Microsoft Excel (Power Query, PivotTables, PivotCharts, Slicers)</td></tr>
@@ -21,11 +26,6 @@ and channel performance.
   <tr><td><b>Type</b></td><td>Descriptive analytics / BI dashboard</td></tr>
 </table>
 
-**Business objective:** Echo Attire wants an annual sales report for 2022 so the business
-can understand its customers and grow sales in 2023. This project answers that brief end
-to end from raw data, to a clean model, to a dashboard, to a concrete, data-backed
-recommendation for where to focus 2023 marketing spend.
-
 ---
 
 ## 🗂️ Repository Structure
@@ -33,20 +33,19 @@ recommendation for where to focus 2023 marketing spend.
 ```
 echo-attire-business-analytics/
 ├── README.md                                  <- You are here
-├── LICENSE
 ├── data/
 │   ├── raw/
 │   │   └── Echo Attire Dataset.xlsx           <- Original, unmodified source data
 │   └── processed/
-│       └── Echo Attire Cleaned Pivot Dashboard.xlsx
-│                                               <- Cleaned data + PivotTables + Dashboard
-│                                                  (sheets: "Echo Attire", "Pivot Table", "Dashboard")
-├── images/
-│   └── Echo Attire Sales Dashboard.jpg        <- Dashboard preview image
-└── docs/
-    ├── Business Requirements.md                <- Business objective, questions, and deliverable mapping
-    ├── Insights & Recommendations.md           <- Verified insights + final growth recommendations
-    └── Data Dictionary.md                      <- Column-by-column field reference
+│       └── Echo Attire Cleaned Pivot Dashboard.xlsx   <- Cleaned data + PivotTables + Dashboard
+│                                                      (sheets: "Echo Attire", "Pivot Table", "Dashboard")
+├── docs/
+│    ├── Business Requirements.md                <- Business objective, questions, and deliverable mapping
+│    ├── Data Dictionary.md                      <- Column-by-column field reference 
+│    └── Insights & Recommendations.md           <- Verified insights + final growth recommendations
+│                                                                                             
+└── images/
+    └── Echo Attire Sales Dashboard.jpg        <- Dashboard preview image
 ```
 
 ---
