@@ -31,7 +31,7 @@ recommendation for where to focus 2023 marketing spend.
 ## 🗂️ Repository Structure
 
 ```
-echo-attire-sales-analysis/
+echo-attire-business-analytics/
 ├── README.md                                  <- You are here
 ├── LICENSE
 ├── data/
