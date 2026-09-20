@@ -164,13 +164,6 @@ spend.
 
 ---
 
-## 📄 License
-
-This project is shared under the [MIT License](LICENSE). The dataset is provided for
-portfolio and educational purposes.
-
----
-
 ## 🙋 About
 
 Built as a Data Analyst, Business Analyst project to demonstrate the full
