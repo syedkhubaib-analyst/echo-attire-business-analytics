@@ -82,7 +82,7 @@ product types.
 
 ## Verified Insights
 
-| Target Insight | Verified Figure | Match |
+| Findings | Verified Figure | Match |
 |---|---|---|
 | Women are more likely to buy compared to men (~65%) | **64.1%** women share of revenue | ✅ Matches |
 | Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states | Confirmed exact rank order: **Maharashtra → Karnataka → Uttar Pradesh** | ✅ Matches |
