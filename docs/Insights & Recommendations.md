@@ -80,14 +80,16 @@ a wide margin. Across every age bracket, women out-order men roughly 2-to-1.
 Set + Kurta together make up 73% of sales, the business is heavily concentrated in two
 product types.
 
-## Verified Insights
+## Findings Summary
 
-| Findings | Verified Figure | Match |
+| Finding | Evidence | Implication |
 |---|---|---|
-| Women are more likely to buy compared to men (~65%) | **64.1%** women share of revenue | ✅ Matches |
-| Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states | Confirmed exact rank order: **Maharashtra → Karnataka → Uttar Pradesh** | ✅ Matches |
-| The adult age group (30–49 years) contributes the most (~50%) | **50.1%** of revenue and **50.1%** of orders come from ages 30–49 | ✅ Matches |
-| Amazon, Flipkart, and Myntra are the channels contributing the most | Confirmed all three in the top 3 by revenue — note the actual rank order is **Amazon → Myntra → Flipkart** (Myntra edges out Flipkart, 23.3% vs. 21.6%) | ✅ Matches (channel set confirmed; rank order refined) |
+| **Women drive most revenue** | Women generate **64.0% of revenue (₹13,562,773)** vs. 36.0% for men | Women are the core audience |
+| **Three states lead** | Maharashtra, Karnataka, and Uttar Pradesh contribute **36.6% of total revenue** | Geographic focus is warranted |
+| **Ages 30–49 are the core age group** | Customers aged 30–49 account for **50.1% of orders and 50.1% of revenue** | Adult customers anchor demand |
+| **Three marketplaces dominate** | Amazon **35.5%**, Myntra **23.3%**, Flipkart **21.6%**, totaling **80.4%** | Concentrate channel spend |
+| **Two categories carry the business** | Set and Kurta generate **73.0% of revenue** | Protect the core range |
+| **Western Dress has a returns problem** | **9.7%** returned/refunded vs. **5.0% overall** | Fix before scaling the category |
 
 ## Final Conclusion: How Echo Attire Can Grow Sales in 2023
 
