@@ -15,7 +15,7 @@ by a PivotTable on the **"Pivot Table"** sheet.
 |---|---|---|---|
 | 1 | Compare sales and orders in a single view | Monthly `Sum of Amount` + `Count of Order ID` combo chart | Orders & Sales |
 | 2 | Which month had the highest sales and orders? | Same monthly combo chart | Orders & Sales |
-| 3 | Who purchased more — men or women? | Gender split pie chart | Male & Female Sales Ratio |
+| 3 | Who purchased more men or women? | Gender split pie chart | Male & Female Sales Ratio |
 | 4 | What are the different order statuses? | Status breakdown pie chart | Order Status |
 | 5 | Top 10 states contributing to sales | State ranking bar chart (dashboard shows top 5; full top 10 in `docs/Insights & Recommendations.md`) | Top 5 (10) States With Highest Sales |
 | 6 | Relationship between age and gender by order volume | Age Bracket × Gender clustered bar chart | Orders Based on Gender & Age Brackets |
