@@ -1,4 +1,4 @@
-<img width="2171" height="724" alt="EA" src="https://github.com/user-attachments/assets/81684d7b-7e8e-4cd3-ba1d-bdf4c18d2939" />
+<img width="2000" height="600" alt="EA" src="https://github.com/user-attachments/assets/81684d7b-7e8e-4cd3-ba1d-bdf4c18d2939" />
 
 # Echo Attire: Sales Performance Analysis & Dashboard
 
